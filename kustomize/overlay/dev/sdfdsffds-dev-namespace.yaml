@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: sdfdsffds-dev
+  labels:
+    environment-id: env_04f0d7a2-5292-4cfb-9fbd-e6c62f40eb4a
+    project-id: project_767c8dc5-6b36-4342-adaf-dba80fca2a4b
+    project-name: sdfdsffds
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
